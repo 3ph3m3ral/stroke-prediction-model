@@ -22,8 +22,3 @@ https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
-
-# Usage
-1. run the dockerfile
-2. unzip data or get your own dataset
-3. lunch the notebook

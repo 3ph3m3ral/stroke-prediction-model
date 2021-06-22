@@ -17,7 +17,5 @@ EXPOSE 8080
 
 VOLUME /app/data
 
-CMD  ["echo","stroke-prediction-model start container"]
-
 CMD ["jupyter","notebook","stroke-prediction-model.ipynb","--ip='*'","--port=8888","--no-browser","--allow-root"]
 

@@ -1,0 +1,5 @@
+Migliora il modello di classificazione
+Dockerfile
+requirements.txt minimal
+.ipynb rise video algoritmo
+GUI con inserisci i dati ed estrapola il rischio
