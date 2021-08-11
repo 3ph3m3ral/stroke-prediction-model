@@ -1,3 +1,9 @@
+# Usage Linux
+python3 -m venv venv
+source venv/bin/activate
+jupyter-notebook StrokeModelPrediction.ipynb
+OR
+jupyter-lab StrokeModelPrediction.ipynb
 
 # Stroke model prediction
 
