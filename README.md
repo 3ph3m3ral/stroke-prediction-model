@@ -5,11 +5,12 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
 ## Usage
-python3 -m venv venv
-source venv/bin/activate
-jupyter-notebook StrokeModelPrediction.ipynb
-OR
-jupyter-lab StrokeModelPrediction.ipynb
+- python3 -m venv venv
+- source venv/bin/activate
+
+- jupyter-notebook stroke-prediction-model.ipynb
+<br> OR <br>
+jupyter-lab stroke-prediction-model.ipynb
 
 
 ## Dataset
