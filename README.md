@@ -8,9 +8,9 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 - python3 -m venv venv
 - source venv/bin/activate
 
-- jupyter-notebook stroke-prediction-model.ipynb
+- jupyter-notebook stroke_prediction_model.ipynb
 <br> OR <br>
-jupyter-lab stroke-prediction-model.ipynb
+jupyter-lab stroke_prediction_model.ipynb
 
 
 ## Dataset
